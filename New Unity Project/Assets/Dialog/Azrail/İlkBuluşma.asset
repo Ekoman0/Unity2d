@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d344a92b6b95abf43958911eab4bfdaa, type: 3}
+  m_Name: "\u0130lkBulu\u015Fma"
+  m_EditorClassIdentifier: 
+  ID: 0
+  Dialoglar:
+  - context: "Hey Yabanc\u0131 Yan\u0131ma Yakla\u015F. "
+    Speaker: 4
+  - context: "I\u0131 S-Sen de kimsin b\xF6yle ?"
+    Speaker: 0
+  - context: "Kim Oldu\u011Fumu Bo\u015Fver, Duydu\u011Fuma G\xF6re Sevgilin \u0130\xE7in
+      Paha Bi\xE7ilemez Bir Hediye Ar\u0131yormu\u015Fssun Do\u011Fru mu?"
+    Speaker: 4
+  - context: Evet ama Bunu Sen Nerden Biliyorsun?
+    Speaker: 0
+  - context: "\xC7ok Soru Soruyorsun. Beni Dinle,Uzun Zaman \xD6nce T\u0131rpan\u0131m\u0131
+      Kaybettim E\u011Fer Onu Bulup Bana Getirebilirsen Sana Hi\xE7bir \u0130nsan\u0131n
+      Ula\u015Famayaca\u011F\u0131 De\u011Ferli Bir Ta\u015F\u0131 Verece\u011Fim."
+    Speaker: 4
+  - context: "P-p Peki \u015Eans\u0131m\u0131 Denerim."
+    Speaker: 0

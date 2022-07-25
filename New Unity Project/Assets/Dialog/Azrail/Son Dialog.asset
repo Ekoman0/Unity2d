@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d344a92b6b95abf43958911eab4bfdaa, type: 3}
+  m_Name: Son Dialog
+  m_EditorClassIdentifier: 
+  ID: 0
+  Dialoglar:
+  - context: "Hey Sen Burada Ne Yap\u0131yorsun??"
+    Speaker: 0
+  - context: "Senin \u0130\xE7in Geldim."
+    Speaker: 4
+  - context: Ne??
+    Speaker: 0
+  - context: "\xDCzg\xFCn\xFCm. Burada Maceran Bu Kadar"
+    Speaker: 4
+  - context: "Sana O Kadar Yard\u0131m Ettim.Bunu Yapmak Zorunda m\u0131s\u0131n?"
+    Speaker: 0
+  - context: ...
+    Speaker: 4
+  - context: Bari Biraz Daha Zaman Ver Damlaya Veda Edeyim.
+    Speaker: 0
+  - context: "Sana 5 Y\u0131ld\u0131r Zaman Veriyorum Ama Art\u0131k Vakti Geldi,
+      Hadi Gidelim."
+    Speaker: 4

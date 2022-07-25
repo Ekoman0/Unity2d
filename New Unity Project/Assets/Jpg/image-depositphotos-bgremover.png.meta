@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: ea0b644d606be79428cf452dc06f2036
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4299181400634481412
+    second: image-depositphotos-bgremover_0
+  - first:
+      213: -4724421640418290920
+    second: image-depositphotos-bgremover_1
+  - first:
+      213: 1749555531376569691
+    second: image-depositphotos-bgremover_2
+  - first:
+      213: 3439854713468495065
+    second: image-depositphotos-bgremover_3
+  - first:
+      213: 3130353854895256903
+    second: image-depositphotos-bgremover_4
+  - first:
+      213: 39460664379175848
+    second: image-depositphotos-bgremover_5
+  - first:
+      213: -4844904800669807277
+    second: image-depositphotos-bgremover_6
+  - first:
+      213: -7831862737993450354
+    second: image-depositphotos-bgremover_7
+  - first:
+      213: 7657431373311191409
+    second: image-depositphotos-bgremover_8
+  - first:
+      213: 5653678908458317447
+    second: image-depositphotos-bgremover_9
+  - first:
+      213: 1456893617974072752
+    second: image-depositphotos-bgremover_10
+  - first:
+      213: 3173016266493522849
+    second: image-depositphotos-bgremover_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4273e4b4d3654c0800000000000000
+      internalID: -4299181400634481412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 328
+        width: 108
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81313b19c8b7f6eb0800000000000000
+      internalID: -4724421640418290920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 328
+        width: 115
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d258a7c7ba74810800000000000000
+      internalID: 1749555531376569691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 228
+        width: 104
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d42e3303a1dcbf20800000000000000
+      internalID: 3439854713468495065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 231
+        width: 115
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7457e46ee30417b20800000000000000
+      internalID: 3130353854895256903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 212
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3fbe2e3413c8000800000000000000
+      internalID: 39460664379175848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 111
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dcd71d0c073ccb0800000000000000
+      internalID: -4844904800669807277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 126
+        width: 128
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3844b552af4390800000000000000
+      internalID: -7831862737993450354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 109
+        width: 107
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17925226349a44a60800000000000000
+      internalID: 7657431373311191409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b6c44307e57e40800000000000000
+      internalID: 5653678908458317447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 124
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5d0eec60de73410800000000000000
+      internalID: 1456893617974072752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image-depositphotos-bgremover_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 17
+        width: 110
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3f1e6ab71d80c20800000000000000
+      internalID: 3173016266493522849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
